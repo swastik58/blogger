@@ -5,7 +5,7 @@ const graphqlAPI = 'https://api-ap-northeast-1.graphcms.com/v2/ckwq63d2h2cci01z1
 export const getPosts = async () => {
   const query = gql`
     query MyQuery {
-      postsConnection (orderBy: createdAt_DESC) {
+      postsConnection {
         edges {
           cursor
           node {
