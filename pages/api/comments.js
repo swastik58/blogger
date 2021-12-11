@@ -1,6 +1,6 @@
 import { GraphQLClient, gql } from 'graphql-request';
 
-const graphqlAPI = process.env.NEXT_PUBLIC_GRAPHCMS_ENDPOINT;
+const graphqlAPI = 'https://api-ap-northeast-1.graphcms.com/v2/ckwq63d2h2cci01z17dwy2tb0/master';
 
 /** *************************************************************
 * Any file inside the folder pages/api is mapped to /api/* and  *
