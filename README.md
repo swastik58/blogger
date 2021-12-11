@@ -32,9 +32,9 @@
 ## RELATED POSTS
 - POSTS RELATED TO THE OPENED POST WILL BE DISPLAYED HERE
 
-## WEBSITE HOSTED USING 
+## WEBSITE HOSTED USING : [VERCEL](https://vercel.com/dashboard)
 
-## LINK TO THE WEBSITE
+## LINK TO THE WEBSITE : https://blogger-swastik58.vercel.app/
 
 ## THIS APPLICATION WAS BUILD USING : 
 - [NEXT JS](https://nextjs.org/)
